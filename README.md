@@ -8,7 +8,7 @@ Moussa Smaïn - Poignard Kevin - Vandenboren Simon
   - Se rendre avec la commande "cd" à l'endroit ou se trouve le "block.py"
   - Lancer la commande "python3 block.py"
   - Le serveur se lance
-  - Dans la barre URL, tapez "http:127.0.0.1:6892/mine_block"
+  - Dans la barre URL, tapez "http://127.0.0.1:6892/mine_block"
   
  ** Ceci va miner le premier block et vous affichez ses données.
  
